@@ -38,7 +38,7 @@ This repository is uploaded as codes and data materials for the artical:"Machine
 ![Flowchart](Flowchart.png)
 
 ## Files-Interpretation
-<p align="justify">The folder “data” contains the raw data as well as the processed data, where “cfps2018person.dta” and “cfps2020crossyearid.dta” are the raw files downloaded from CFPS. The folder “Figure” contains eps vector versions of all images. The folder “Figure small” contains 300 dpi jpeg versions of all images. The folder “Table” contains several tables from the article. The remaining seven files with .R suffixes are the main code. The folder “Revision” contains the codes and auxiliary files generated during the peer review process.
+<p align="justify">The folder “data” contains the raw data as well as the processed data, where “cfps2018person.dta” and “cfps2020crossyearid.dta” are the raw files downloaded from CFPS (However, due to permission issues, the folder is empty here). The folder “Figure” contains eps vector versions of all images. The folder “Figure small” contains 300 dpi jpeg versions of all images. The folder “Table” contains several tables from the article. The remaining seven files with .R suffixes are the main code. The folder “Revision” contains the codes and auxiliary files generated during the peer review process.
 </p>
 
 ## Codes-Interpretation

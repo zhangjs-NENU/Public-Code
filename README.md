@@ -1,7 +1,7 @@
 
 # <p align="center">Machine Learning-Based Prediction and Analysis of Chinese Youth Marriage Decision</p>
 
-This repository is uploaded as codes and data materials for the artical:"Machine Learning-Based Prediction and Analysis of Chinese Youth Marriage Decision", published on ***[Behavioral Sciences](https://doi.org/10.3390/bs15111521)***.
+This repository is uploaded as codes and data materials for the artical:"Machine Learning-Based Prediction and Analysis of Chinese Youth Marriage Decision", published on ***[Behavioral Sciences](https://www.mdpi.com/2076-328X/15/12/1750)***.
 
 ## Directory
 - [Abstract](#Abstract)
